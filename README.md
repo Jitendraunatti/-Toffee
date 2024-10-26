@@ -35,8 +35,6 @@ Thank you for your contributions to the open-source community! ❤️
 
 
 * Premium Channels Are Also Working
-* Contains Link With Headers (Host, Cookie)
-* In JSON Format
 * You Can Easily Use This on a Website or in an App for Restreaming TV Channels 
 
 
