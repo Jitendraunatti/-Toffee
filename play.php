@@ -179,24 +179,24 @@
 
 <body>
     <div id="loading" class="loading">
-        <div class="loading-text">
-            <span style="color:#FF9966">J</span>
-            <span style="color:#FF9966">I</span>
-            <span style="color:#FF9966">T</span>
-            <span style="color:#FF9966">E</span>
-            <span style="color:#FF9966">N</span>
-            <span style="color:#FF9966">D</span>
-            <span style="color:#FF9966">R</span>
-            <span style="color:#FF9966">A</span>
-            <span style="color:#FF0000">_</span>
-            <span style="color:#FF0000">P</span>
-            <span style="color:#FF0000">R</span>
-            <span style="color:#FF0000">O</span>
-            <span style="color:#FF0000">_</span>
-            <span style="color:#66CC66">D</span>
-            <span style="color:#66CC66">E</span>
-            <span style="color:#66CC66">V</span>
-        </div>
+<div class="loading-text">
+    <span style="color:#FF9966">J</span>
+    <span style="color:#FF9966">I</span>
+    <span style="color:#FF9966">T</span>
+    <span style="color:#FF9966">E</span>
+    <span style="color:#FF9966">N</span>
+    <span style="color:#FF9966">D</span>
+    <span style="color:#FF9966">R</span>
+    <span style="color:#FF9966">A</span>
+    <span style="color:#FF0000">_</span>
+    <span style="color:#FF0000">U</span>
+    <span style="color:#FF0000">N</span>
+    <span style="color:#FF0000">A</span>
+    <span style="color:#FF0000">T</span>
+    <span style="color:#FF0000">T</span>
+    <span style="color:#66CC66">I</span>
+</div>
+
     </div>
     <?php
     $url = "live.php?id=" . $_REQUEST["id"] . ".m3u8";
