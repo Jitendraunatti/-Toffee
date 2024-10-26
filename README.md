@@ -112,7 +112,7 @@ http://localhost:8080/toffee/playlist.php
 <h3> ⚠️License and Disclosures : </hr>
 
 This code is just a CASE STUDY on how the authentication mechanism and live streaming using IPTV works I am in no way responsible if you misuse the code and cause revenue loss to the concerned parties and owners of the portal
-This code is protected under the [GPL](https://github.com/Jitendraunatti/toffeeTv/blob/main/LICENSE) license
+This code is protected under the [Apache-2.0 license](https://github.com/Jitendraunatti/Toffee?tab=Apache-2.0-1-ov-file) license
 
 
 <h4 align='center'>© 2021-24 JITENDRA KUMAR</h4>
