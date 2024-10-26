@@ -81,7 +81,6 @@ This extension allows for improved playback of MPEG-DASH and HLS streams, ensuri
 Enjoy your streaming experience! 🎉
 
 
-
 ## ▶️ PlayList Methods :
 
 • In Tivimate or OTT Navigator Player Put Links Format Like Below :
@@ -91,6 +90,14 @@ Enjoy your streaming experience! 🎉
 http://localhost:8080/toffee/playlist.php
 
 ```
+
+
+<h3>Requirements</h3>
+This script currently retrieves data from Byte Capsule. If anyone has a Toffee account and is willing to share, please do so. This will enable me to work on making the script standalone.
+
+
+
+
 
 • Hurrah !! Now Play & Enjoy with your toffee Channels .
 
